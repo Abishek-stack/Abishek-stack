@@ -10,34 +10,11 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-- C
-- JavaScript
-- HTML5
-- CSS3
-- SQL
+## 🛠️ Tech Stack
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,c,tailwind,postman" />
+</p>
 
 ## 📂 Featured Projects
 
@@ -51,15 +28,6 @@ A simple interactive game built using HTML, CSS, and JavaScript.
 Task management application with add, edit, delete, and complete functionality.
 
 More projects coming soon...
-
----
-
-## 📚 Currently Learning
-- Data Structures & Algorithms
-- React.js
-- MongoDB
-- Tailwind CSS
-- System Design Basics
 
 ---
 
